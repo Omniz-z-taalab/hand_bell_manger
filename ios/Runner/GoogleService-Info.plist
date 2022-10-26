@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>118472243327-pkplbjvugr5h2c9jffccrqcdqfif395p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.118472243327-pkplbjvugr5h2c9jffccrqcdqfif395p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>118472243327-8nkq9mrmjrpk25korp0rcn5star86jk7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiMjvcYOaKFcYI0LWM5knAsszGCisUPJU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>118472243327</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.egyapp.handBillManger</string>
+	<key>PROJECT_ID</key>
+	<string>hand-bill-f545e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hand-bill-f545e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:118472243327:ios:62301dbf14858b17c6674a</string>
+</dict>
+</plist>
